@@ -1,4 +1,3 @@
-readme_content = """
 # Yemek Tarifi Uygulaması
 
 Bu proje, kullanıcıların yemek tariflerini ekleyebileceği, arayabileceği ve değerlendirebileceği bir platform sağlar.
@@ -11,14 +10,14 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip ed
    ```bash
    git clone https://github.com/kullaniciadi/yemek-tarifi-uygulamasi.git
 Gerekli kütüphaneleri kurun:
-bash
+
 
 pip install PyQt5 sqlite3
 Kullanım
 
 Uygulamayı başlatmak için aşağıdaki komutu çalıştırın:
 
-bash
+
 
 python yemek-tarifi-uygulamasi.py
 Özellikler
